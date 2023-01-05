@@ -9,5 +9,21 @@ Determinar cuál tarifa de prepago genera más ingresos, por lo que se tiene que
 - El ingreso promedio de los usuarios de las tarifas Ultimate y Surf difiere.
 - El ingreso promedio de los usuarios en el área de estados Nueva York - Nueva Jersey es diferente al de los usuarios de otras regiones.
 
+# Contenidos
+
+* Introducción
+* Objetivos
+* Inicialización de datos
+* Análisis de datos
+  * Análisis de consumo de minutos que requieren los usuarios por mes
+  * Análisis de consumo de mensajes de texto que requieren los usuarios por mes
+  * Análisis de consumo de datos (Gigabytes) que requieren los usuarios por mes
+* Prueba de hipótesis
+  * Ingreso promedio de los usuarios de las tarifas Ultimate y Surf
+    * Prueba de hipótesis 1
+  * Ingreso promedio de los usuarios en el área de estados Nueva York - Nueva Jersey y usuarios de otras regiones
+    * Prueba de hipótesis 2
+* Conclusión general
+
 ## Librerias
 pandas, matplotlib, scipy.stats, numpy, math.
